@@ -8,6 +8,8 @@ public class MyClass {
 		System.out.println("Test me here");
 		System.out.println("Test me Azure");
 		
+		System.out.println("Test me AWS");
+		
 		
 	}
 
